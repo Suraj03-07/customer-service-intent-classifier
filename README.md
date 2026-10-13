@@ -1,4 +1,6 @@
 # Customer Service Intent Classifier
+Mini project built during my internship at SURE ProEd (a unit of SURE Trust, Skill Upgradation for Rural-youth Empowerment).
+Mentor: Mr. Vamsi Krishna | Author: Suraj Tiwari
 
 A machine learning project that predicts the intent of a customer message using Natural Language Processing (NLP).
 
@@ -43,13 +45,13 @@ intent_app/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone (https://github.com/Suraj03-07/customer-service-intent-classifier.git)
    ```
 
 2. Open the project directory:
 
    ```bash
-   cd YOUR_REPOSITORY
+   cd customer-service-intent-classifier
    ```
 
 3. Create and activate a virtual environment.
@@ -96,6 +98,10 @@ These results reflect the evaluation datasets used in the notebook. Performance 
 * Predictions depend on the quality and coverage of the training data.
 * The model may make incorrect predictions for ambiguous or unfamiliar messages.
 * The confidence score should not be treated as a guarantee of correctness.
+
+## Acknowledgements
+
+SURE ProEd (a unit of SURE Trust) and my mentor Mr. Vamsi Krishna for guidance during the internship.
 
 ## Author
 
